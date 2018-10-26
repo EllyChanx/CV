@@ -1,44 +1,27 @@
-## Your Name
+## Elly Chan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Some facts about me
 
 ## Skills
 
-#### This Skill
+#### Detail orianted
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My experience as a Software Quality Assurance has trained me to pay high attention on details. The Maintenance Assessment Scoring System (MASS) Project I used to worked on involved massive processed data and logics on mathematics for me to comprehend; I have developed a fine sense to spot errors and bugs when it comes to testing and coding.
 
-- Experience
-- Achievements
-- Evidence
+#### Fast learner
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I was placed into an important govemental project even with no previous experience on computing and coding by showing initiative on learning. I quickly picked up SQL and HTML along with the assigned tasks. I also promptly gained understandings on users' work flow and work habit to make sure the project would be delivered with high quality.
 
 ## Education
 
 #### Makers Academy (start_date to end_date)
+To be continued
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### The Hong Kong Polytechnic University (Sep.2016 to Dec.2017)
+Postgraduate Diploma in Language Arts
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Griffith University (Feb.2015 to Jul.2016)
+Bachelor of Aviation Management
 
 #### Any other qualifications
 
