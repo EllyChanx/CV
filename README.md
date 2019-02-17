@@ -1,7 +1,7 @@
 # Elly Chan 
 
 A passionate and well-driven junior developer who recently graduated from Makers Academy. I was a former Software Quality Assurance
-in a tech consultant in Hong Kong; I worked as a connection between users and developers. This journey trained me to design application from user's perspective and experience, also incited my interest to learn programming. I decided to challenge myself and moved to London to join Maker Academy, a 16 weeks intensive coding bootcamp focussing on web development. 
+in a tech consultant in Hong Kong; I worked as a connection between users and developers. This journey trained me to design application from user's perspective and experience, also incited my interest to learn programming. I decided to challenge myself and moved to London to join Makers Academy, a 16 weeks intensive coding bootcamp focussing on web development. 
 
 ### [Projects](#projects) |  [Skills](#skills) |  [Experience](#experience) |  [Education](#education) | [Interests](#interests)
 
@@ -9,7 +9,7 @@ in a tech consultant in Hong Kong; I worked as a connection between users and de
 
 | Project | Project type | Technologies | Description | 
 |---|---|---|---|
-| [PetHub (Backend)](https://github.com/EllyChanx/PetHub-backend)<br />[PetHub (Frontend)](https://github.com/EllyChanx/PetHub-frontend)  | Team Project | Ruby on Rails API, Rspec, PostgreSQL <br />React, Semantic-UI, <br />Googlemap API| A web application that aims to help pet owners reunite with their lose pets. This was our first time to design a RESTful API and my first attempt to learn and code in ReactJS. I was responsible for the majority of the backend data management and I particularly enjoyed using React to design frontend features. | 
+| [PetHub (Backend)](https://github.com/EllyChanx/PetHub-backend)<br />[PetHub (Frontend)](https://github.com/EllyChanx/PetHub-frontend)  | Team project | Ruby on Rails API, Rspec, PostgreSQL <br />React, Semantic-UI, <br />Googlemap API| A web application that aims to help pet owners reunite with their lose pets. This was our first time to design a RESTful API and my first attempt to learn and code in ReactJS. I was responsible for the majority of the backend data management and I particularly enjoyed using React to design frontend features. | 
 | [Tic-Tac-Toe](https://github.com/EllyChanx/tic_tac_toe) | Indivdual project | JavaScript, Node.js, jQuery, Jasmine, Testcafe | A traditional Tic-Tac-Toe game I made in Javascript. The main logic strictly followed TDD process with Jasmine (100% test coverage), additional feature tests were written in TestCafe.| 
 | [Acebook](https://github.com/EllyChanx/acebook-unicorns) | Team project | Ruby on Rails, RSpec, Capybara | A Facebook clone built in Ruby on Rails. This was our first project using Rails; I learned a lot about the backend design and the entity relationships in a program. |
 | [Guardian News Summary](https://github.com/EllyChanx/news-summary-challenge) | Indivdual project | JavaScript, The Guardian API | A news summary web application built in MVC architecture. My first attempt on working with a RESTful API, user can send parameter to the API and request different types of latest news from The Guardian. |
