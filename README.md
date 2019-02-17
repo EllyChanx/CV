@@ -21,6 +21,7 @@ in a tech consultant in Hong Kong. This journey trained me to design application
 
 - Javascript, Node.js, Express, ReactJS, Jasmine, TestCafe
 - Ruby, Ruby on Rails, Rspec, Capybara, Sinatra
+- HTML, CSS
 - SQL
 
 #### Detail oriented 
