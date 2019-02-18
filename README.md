@@ -30,11 +30,11 @@ My experience as a Software QA has trained me to pay high attention on details. 
 
 #### Fast learner 
 
-I was placed into an important government project even with no previous experience on computing and coding by showing initiative on learning. I quickly picked up SQL and HTML along with the assigned tasks. I also promptly gained understandings on users' work flow and work habit to make sure the project would be delivered with high quality. 
+I quickly picked up SQL and HTML along with the assigned tasks while I was working as a Software QA. As a student in Makers, I demonstrated the ability of self-learning thoroughly. I learned Rails and ReactJS in a short period of time, and was able to apply them into mutiple projects. I gained great feedbacks from my peers for having clear understanding of the concepts and was able to explain my work. 
 
 #### Team-player 
 
-I possess strong commitment to team environment dynamics with the ability to make contribution. It was an essential task for me to deliver the users' requirements to the developers precisely and communicate with my teammates and leader effectively during the development process. 
+I possess strong commitment to team environment dynamics with the ability to make contribution. As a tester, it was an essential task for me to deliver the users' requirements to the developers precisely. As a developer, I communicate with my team effectively during the development process and aim to deliver high quality works either as a follower or a leader. 
 
 ## Experience 
 **Million Tech Development Ltd** (Mar. 2017 to May 2018)     
@@ -56,6 +56,7 @@ I possess strong commitment to team environment dynamics with the ability to mak
 #### Makers Academy (Oct. 2018 to Feb 2019) 
 - OOP, TDD, MVC
 - Agile/Lean environment
+- Ruby and Javasript technologies
 - MongoDB, PostgreSQL
 
 #### The Hong Kong Polytechnic University (Sep.2016 to Dec.2017) 
