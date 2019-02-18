@@ -3,7 +3,7 @@
 A well-driven junior developer who recently graduated from Makers Academy. I was a former Software Quality Assurance
 in a tech consultant in Hong Kong. This journey trained me to design application from user's perspective and experience, also incited my interest to learn programming. I decided to challenge myself and moved to London to join Makers Academy, a 16 weeks intensive coding bootcamp focussing on web development. 
 
-### [Projects](#projects) |  [Skills](#skills) |  [Experience](#experience) |  [Education](#education) | [Interests](#interests)
+### [ Projects ](#projects) |  [ Skills ](#skills) |  [ Experience ](#experience) |  [ Education ](#education) | [ Interests ](#interests)
 
 ## Projects 
 
@@ -19,7 +19,7 @@ in a tech consultant in Hong Kong. This journey trained me to design application
 
 #### Technologies
 
-- Javascript, Node.js, Express, ReactJS, Jasmine, TestCafe
+- Javascript, Node.js, Express, ReactJS, jQuery, Jasmine, TestCafe
 - Ruby, Ruby on Rails, Rspec, Capybara, Sinatra
 - HTML, CSS
 - SQL
